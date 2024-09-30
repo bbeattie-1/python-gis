@@ -1,1 +1,2 @@
-# Welcome to my public repository for Python scripts and Jupyter Notebooks!
+# Welcome!
+## Developed by Ben Beattie | GIS Professional
